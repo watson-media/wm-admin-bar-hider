@@ -1,0 +1,65 @@
+.wm_magic_section select {
+	height: 40px !important;
+	min-width: 100px;
+}
+
+.wm_magic_section p.submit #submit {
+	height: 40px;
+	top: -3px;
+	position: relative;
+	min-width: 150px;
+}
+
+.wm_magic_section {
+	background: url(wm-settings-bg.svg) no-repeat top right/70%;
+}
+
+.wrap h1.big-title {
+	font-size: 3.125rem;
+	font-weight: 700;
+	line-height: 1;
+	color: #111;
+}
+
+.text-subtitle {
+	margin-bottom: 30px;
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 800;
+	position: relative;
+	top: -20px;
+}
+
+.text-light {
+	color: #777;
+}
+
+.wrap h1.big-title span {
+	width: 100%;
+	display: inline-block;
+}
+
+.wm_magic_section th label {
+	text-align: left !important;
+	display: block;
+}
+
+.wm_left_text {
+	text-align: left !important;
+	display: block;
+}
+
+.wm_full_width_table {
+	width: 100% !important;
+	min-width: 100% !important;
+	max-width: 100% !important;
+}
+
+.wm_full_width_table select[multiple] {
+	width: 100% !important;
+	min-height: 150px !important;
+	width: ;
+	min-width: 100% !important;
+	max-width: 100% !important;
+	padding: 10px !important;
+}
